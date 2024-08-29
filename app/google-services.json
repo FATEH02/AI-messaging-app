@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109683635915",
+    "project_id": "livechat-fdfac",
+    "storage_bucket": "livechat-fdfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109683635915:android:72dd826364a41a9c3f4d4e",
+        "android_client_info": {
+          "package_name": "com.example.livechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlIwek5lrlkKE_9UW_7-FcxSSuNAhBgSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
